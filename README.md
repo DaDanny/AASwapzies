@@ -1,7 +1,6 @@
 #Swapzies Repo#
 
 ************
-##To Do##
-************
+##To Do:##
 ###Reformat layout for app specs###
 
